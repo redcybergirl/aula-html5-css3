@@ -1,0 +1,38 @@
+
+body {
+    background: rgb(222, 233, 233);
+    margin-left: 100px; 
+    margin-right: 400px;
+}
+
+header {
+    margin-top: 50px;
+}
+
+h1 {
+    color: rgb(4, 67, 87);
+    font-family: tahoma;
+}
+
+h2 {
+    color: rgb(4, 67, 87);
+    font-family: arial;
+}
+
+footer {
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+
+.img_padrão {
+    width: 300px;
+    margin-right: 20px;
+}
+.img_padrãoicon {
+    width: 30px;
+}
+
+.img_padrão_parceiros {
+    margin-bottom: 10px;
+}
+
